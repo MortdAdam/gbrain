@@ -9,9 +9,12 @@ description: |
 triggers:
   - "save this learning to the vault"
   - "capture this skill in Obsidian"
+  - "capture this new skill in Obsidian"
   - "record this workflow in my notes"
   - "put this setup change in the vault"
   - "should we add this to the knowledge base"
+  - "should we add this recurring agent skill to the wiki"
+  - "new gbrain cost control"
 tools:
   - read_file
   - search_files

@@ -5,11 +5,19 @@ description: |
   Connect, maintain, and sync an Obsidian-style Markdown vault with gbrain while preserving a cost-controlled workflow: the vault remains the source of truth, gbrain is the searchable/embedded index, durable skills/workflows are captured into the vault, and paid embedding runs only after explicit approval.
 triggers:
   - "connect Obsidian to gbrain"
+  - "Obsidian vault to gbrain"
   - "import my vault to gbrain"
+  - "import my vault into gbrain"
   - "sync vault and gbrain"
+  - "sync my Obsidian vault with gbrain"
   - "capture this skill in my vault"
+  - "capture this new skill in my vault"
   - "embed gbrain after vault update"
+  - "embed gbrain after I update the vault"
   - "is gbrain synced with my vault"
+  - "gbrain synced with my Obsidian vault"
+  - "index my notes into gbrain"
+  - "import my markdown vault to gbrain"
 tools:
   - terminal
   - read_file

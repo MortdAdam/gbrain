@@ -3,9 +3,9 @@ name: connect-chrome
 version: 0.2.0
 description: Launch GStack Browser — AI-controlled Chromium with the sidebar extension baked in.
 triggers:
-  - open gstack browser
-  - launch chromium
-  - show me the browser
+  - connect chrome
+  - attach to chrome
+  - connect existing chromium
 allowed-tools:
   - Bash
   - Read

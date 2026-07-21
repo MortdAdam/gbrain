@@ -6,6 +6,8 @@ description: >
   placeholder text, confirmation dialogs, onboarding flows, or i18n strings.
   Also use when the user says /copy, /content, or /ux-copy.
 allowed-tools: Read, Grep, Glob, Edit
+triggers:
+  - "n8n:content-design"
 ---
 
 # n8n content design

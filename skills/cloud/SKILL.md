@@ -14,6 +14,8 @@ description: >
   integration. Do NOT use this for the open-source Python library
   (Agent, Browser, Tools config) — use the open-source skill instead.
 allowed-tools: Read
+triggers:
+  - "cloud"
 ---
 
 # Browser Use Cloud Reference

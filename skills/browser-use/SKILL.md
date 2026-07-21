@@ -1,6 +1,8 @@
 ---
 name: browser-use
 description: "Direct browser control via CDP for web interaction: automation, scraping, testing, screenshots, and site/app work."
+triggers:
+  - "browser-use"
 ---
 
 # Browser Use

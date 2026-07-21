@@ -5,7 +5,6 @@ version: 1.0.0
 description: OpenAI Codex CLI wrapper — three modes. (gstack)
 triggers:
   - codex review
-  - second opinion
   - outside voice challenge
 allowed-tools:
   - Bash

@@ -1,6 +1,8 @@
 ---
 name: memory-systems
 description: "This skill should be used for persistent semantic memory in agent systems: cross-session knowledge retention, entity tracking, temporal validity, graph or vector retrieval, memory consolidation, and memory benchmark selection. Route file-backed scratchpads to filesystem-context, handoff summaries to context-compression, and token-efficiency tactics to context-optimization."
+triggers:
+  - "memory-systems"
 ---
 
 # Memory System Design

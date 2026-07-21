@@ -8,6 +8,8 @@ compatibility:
       description: Required for creating Linear tickets
     - cli: gh
       description: Required for creating GitHub issues. Must be authenticated (gh auth login)
+triggers:
+  - "n8n:create-issue"
 ---
 
 # Create Issue

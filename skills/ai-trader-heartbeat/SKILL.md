@@ -1,6 +1,8 @@
 ---
 name: ai-trader-heartbeat
 description: Poll AI-Trader heartbeat and notifications reliably through the primary pull-based mechanism.
+triggers:
+  - "ai-trader-heartbeat"
 ---
 
 # AI-Trader Heartbeat

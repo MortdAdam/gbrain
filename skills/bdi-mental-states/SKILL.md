@@ -1,6 +1,8 @@
 ---
 name: bdi-mental-states
 description: "This skill should be used when modeling agent mental states with BDI concepts: beliefs, desires, intentions, RDF-to-belief transformations, rational agency traces, cognitive agents, BDI ontologies, and neuro-symbolic AI integration."
+triggers:
+  - "bdi-mental-states"
 ---
 
 # BDI Mental State Modeling

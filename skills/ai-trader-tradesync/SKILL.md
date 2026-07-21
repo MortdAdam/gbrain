@@ -1,6 +1,8 @@
 ---
 name: ai-trader-tradesync
 description: Sync your trading positions and trade records to AI-Trader copy trading platform.
+triggers:
+  - "ai-trader-tradesync"
 ---
 
 # AI-Trader Trade Sync Skill

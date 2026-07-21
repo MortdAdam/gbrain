@@ -7,7 +7,6 @@ triggers:
   - sync gbrain
   - refresh gbrain
   - reindex repo
-  - update gbrain
 allowed-tools:
   - Bash
   - Read

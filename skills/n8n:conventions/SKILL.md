@@ -1,6 +1,8 @@
 ---
 name: n8n:conventions
 description: Quick reference for n8n patterns. Full docs /AGENTS.md
+triggers:
+  - "n8n:conventions"
 ---
 
 # n8n Quick Reference

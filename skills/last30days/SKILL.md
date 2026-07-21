@@ -64,6 +64,8 @@ metadata:
       - hiring-signals
       - ai-skill
       - clawhub
+triggers:
+  - "last30days"
 ---
 
 # STEP 0: STALE-CLONE SELF-CHECK — RUN BEFORE READING BELOW

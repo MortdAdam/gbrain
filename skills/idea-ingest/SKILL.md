@@ -8,7 +8,6 @@ description: |
 triggers:
   - shares a link or URL
   - "read this"
-  - "save this"
   - "think about this"
   - "put this in brain"
 tools:

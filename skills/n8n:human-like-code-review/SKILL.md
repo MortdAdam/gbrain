@@ -2,6 +2,8 @@
 name: n8n:human-like-code-review
 description: Reviews a GitHub pull request like a thoughtful human reviewer and writes the feedback to a markdown file. Prioritizes context, architecture fit, solution complexity, bugs, security edge cases, and missing tests. Use when given a PR URL to review, or when the user says /human-like-code-review.
 allowed-tools: Bash(gh:*), Bash(git:*), Read, Glob, Grep
+triggers:
+  - "n8n:human-like-code-review"
 ---
 
 # Human-Like Code Review

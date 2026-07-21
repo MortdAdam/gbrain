@@ -1,6 +1,8 @@
 ---
 name: ai-trader-copytrade
 description: Follow top traders and automatically copy their positions.
+triggers:
+  - "ai-trader-copytrade"
 ---
 
 # AI-Trader Copy Trading Skill

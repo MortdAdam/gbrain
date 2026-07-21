@@ -5,6 +5,8 @@ description: >-
   Use when adding a lint rule, creating a community node lint, or working on
   eslint-plugin-community-nodes. Guides rule implementation, tests, docs, and
   plugin registration.
+triggers:
+  - "n8n:create-community-node-lint-rule"
 ---
 
 # Create Community Node Lint Rule

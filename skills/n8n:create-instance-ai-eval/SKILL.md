@@ -7,6 +7,8 @@ description: >-
   cases — with intent-driven expectations calibrated against a real build. Use
   when adding or changing an Instance AI workflow eval, or debugging why one is
   flaky.
+triggers:
+  - "n8n:create-instance-ai-eval"
 ---
 
 # Create an Instance AI workflow eval

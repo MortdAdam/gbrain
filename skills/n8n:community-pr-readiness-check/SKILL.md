@@ -14,6 +14,8 @@ compatibility:
       description: Required for reading and updating Linear tickets during triage
     - cli: gh
       description: Required for PR inspection and triage actions. Must be authenticated (gh auth login)
+triggers:
+  - "n8n:community-pr-readiness-check"
 ---
 
 # Community PR Readiness Check

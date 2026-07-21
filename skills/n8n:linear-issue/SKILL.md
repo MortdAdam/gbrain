@@ -15,6 +15,8 @@ compatibility:
       description: Used to fetch Loom video transcripts. Skip Loom steps if unavailable.
     - cli: curl
       description: Used to download images/attachments. Typically pre-installed.
+triggers:
+  - "n8n:linear-issue"
 ---
 
 # Linear Issue Analysis

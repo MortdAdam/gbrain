@@ -1,6 +1,8 @@
 ---
 name: ai-trader
 description: AI-Trader - AI Trading Signal Platform. Publish trading signals, follow traders. Use when user mentions trading signals, copy trading, stock trading, or follow traders.
+triggers:
+  - "ai-trader"
 ---
 
 # AI-Trader

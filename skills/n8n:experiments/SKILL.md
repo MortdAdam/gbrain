@@ -5,6 +5,8 @@ description: >-
   extending, wiring, testing, reviewing, or retiring editor-ui experiments,
   PostHog feature flags, experiment key indexes, variants, stores/composables,
   persisted experiment state, or experiment telemetry.
+triggers:
+  - "n8n:experiments"
 ---
 
 # Experiments

@@ -19,6 +19,8 @@ metadata:
       - market-intel
       - polymarket-public-data
       - ai-trader
+triggers:
+  - "crypto-12h-market-report"
 ---
 
 # Crypto 12h Market Report (MoA)

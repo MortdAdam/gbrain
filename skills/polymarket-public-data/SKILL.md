@@ -1,6 +1,8 @@
 ---
 name: polymarket-public-data
 description: Read Polymarket public market metadata and orderbook prices directly from Polymarket APIs without routing traffic through AI-Trader.
+triggers:
+  - "polymarket-public-data"
 ---
 
 # Polymarket Public Data

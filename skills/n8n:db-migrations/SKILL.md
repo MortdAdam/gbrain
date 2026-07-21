@@ -1,6 +1,8 @@
 ---
 name: n8n:db-migrations
 description: Authors n8n database migrations. Use when creating or modifying files under packages/@n8n/db/src/migrations/, when the user asks to add a column, table, index, foreign key, or backfill, or when the user mentions DB migrations or TypeORM migrations.
+triggers:
+  - "n8n:db-migrations"
 ---
 
 # n8n Migration Guidelines

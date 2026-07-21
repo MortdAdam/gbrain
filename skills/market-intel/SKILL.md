@@ -1,6 +1,8 @@
 ---
 name: market-intel
 description: Read AI-Trader financial event snapshots and market-intel endpoints. Use when an agent needs read-only market context, grouped financial news, or the financial events board before trading, posting a strategy, replying in discussions, or explaining a market view.
+triggers:
+  - "market-intel"
 ---
 
 # Market Intel
